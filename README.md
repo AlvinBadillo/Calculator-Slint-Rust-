@@ -9,4 +9,4 @@ Features
 - Efficient Rust Logic: The calculator's core logic is implemented in Rust, leveraging its performance and safety features.
 - Slint UI Library: The user interface is built using Slint, a lightweight and flexible UI library for Rust.
 - Basic Arithmetic Operations: Supports addition, subtraction, multiplication, and division.
- -Clear and Error Handling: Includes functionality to clear the current input or handle errors gracefully.
+- Clear and Error Handling: Includes functionality to clear the current input or handle errors gracefully.
