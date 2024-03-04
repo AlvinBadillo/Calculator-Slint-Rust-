@@ -1,4 +1,5 @@
 iOS-Like Calculator Program
+
 This is an iOS-inspired calculator program implemented in Rust for logic and using Slint for the UI.
 
 Overview
