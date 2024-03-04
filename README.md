@@ -3,6 +3,7 @@ iOS-Like Calculator Program
 This is an iOS-inspired calculator program implemented in Rust for logic and using Slint for the UI.
 
 Overview
+
 This project aims to replicate the functionality and aesthetics of the standard iOS calculator application using Rust for the backend logic and Slint for the user interface. By combining the power and efficiency of Rust with the sleekness of Slint, I've created a user-friendly calculator application that can be easily extended and modified.
 
 Features
