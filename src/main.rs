@@ -112,6 +112,7 @@ slint::slint! {
         }
         GridLayout { 
             y: 100px;
+            // The following are commented because they are used for texting
             //padding: 10px;
             //spacing: 10px;
 
